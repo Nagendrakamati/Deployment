@@ -1,1 +1,1 @@
-  web: sh setup.sh && streamlit run StudentMonitoringSystem(Final).ipynb
+  web: sh setup.sh && streamlit run StudentMonitoringSystem(Final).py
